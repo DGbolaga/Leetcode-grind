@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DGbolaga/Leetcode-grind/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Matrix
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/DGbolaga/Leetcode-grind/tree/master/0138-copy-list-with-random-pointer) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DGbolaga/Leetcode-grind/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
